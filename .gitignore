@@ -1,0 +1,17 @@
+# secrets
+credentials.json
+*.env
+.env
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# generated/runtime data
+uploads/
+static/maps/
+
+# os
+.DS_Store
